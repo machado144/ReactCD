@@ -10,6 +10,14 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload. Wololo. Haha. Hehehe.
         </p>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload. Wololo. Haha. Hehehe.
+        </p>
+        <img src={logo} className="App-logo" alt="logo" />
+        <p>
+          Edit <code>src/App.js</code> and save to reload. Wololo. Haha. Hehehe.
+        </p>
         <a
           className="App-link"
           href="https://reactjs.org"
